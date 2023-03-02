@@ -22,9 +22,6 @@ const Navbar = () => {
                 <span className="nav-link span-text-color">{date}</span>
             </li>
             </ul>
-            <span className="navbar-text span-text-color">
-            Navbar text with an inline element
-            </span>
         </div>
     </div>
 </nav>
