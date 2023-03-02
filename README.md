@@ -5,12 +5,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Important: Before you run the project, it's necesary run the API on Laravel to make it work!
+
 In the project directory:
 
-Install
-## `npm i axios bootstrap react-router-dom@6`
+Before you run the project install:
+### `npm i axios bootstrap react-router-dom@6`
 
-To run
+To run the project:
 ### `npm start`
 
 Runs the app in the development mode.\
