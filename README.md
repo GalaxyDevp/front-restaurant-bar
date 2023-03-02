@@ -3,11 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-## Available Scripts
+##Important: Before you run the project, it's necesary run the API on Laravel to make it work!
 
-Important: Before you run the project, it's necesary run the API on Laravel to make it work!
-
-In the project directory:
+###In the project directory:
 
 Before you run the project install:
 ### `npm i axios bootstrap react-router-dom@6`
